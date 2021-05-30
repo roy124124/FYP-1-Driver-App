@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PickMeUp Driver</string>
+    <string name="logo_name"><b>PickMeUp</b></string>
+    <string name="PSChoice">Who are You?</string>
+    <string name="Aogo_name">Safe to School - Safe to Home</string>
+    <string name="login"><b>LOGIN</b></string>
+    <string name="enter_phone_number"> Enter your Phone Number</string>
+    <string name="enter_password"> Enter Password</string>
+    <string name="forget_password"><u>Forget Password?</u></string>
+    <string name="remember_me">Remember Me</string>
+    <string name="create_acc"><b>Create Account</b></string>
+    <string name="create_account"><u><b>Create Account</b></u></string>
+    <string name="resendCode"><u><b>Resend Code</b></u></string>
+    <string name="full_name"> Enter Full Name</string>
+    <string name="email"> Enter Your Email Address</string>
+    <string name="address"> Enter your Home Full Address</string>
+    <string name="institute_Name"> Enter Your Institute Address</string>
+    <string name="next_btn"> NEXT</string>
+
+    <string name="tagLine">Safe to School - Safe to Home</string>
+
+    <string name="otp_code"><b>code</b></string>
+    <string name="submit"><b>Submit</b></string>
+    <string name="complaints"><b>COMLAINTS</b></string>
+    <string name="filled_complaints"><b>Filed COMLAINTS</b></string>
+    <string name="add_new_complaints"><b>File new Complaint</b></string>
+    <string name="add_new_complaints_title"><b>Add new <br />Complaint</b></string>
+    <string name="view_exist_complaints"><b>View Filed Complaints</b></string>
+    <string name="otp_verify"><b>Verification</b></string>
+    <string name="otp_desc">Enter one time code sent on your phone No.</string>
+    <string name="c_title"> Complaint Title</string>
+    <string name="c_desc"> Complaint Description (max 500 words)</string>
+    <string name="forget_password_txt"><b>Forget Password</b></string>
+    <string name="new_credentials"><b>New Credentials</b></string>
+    <string name="Student_btn"><b>Student</b></string>
+    <string name="Parent_btn"><b>Parent</b></string>
+    <string name="password_updated"><b>Password Updated</b></string>
+    <string name="forget_password_desc">Provide your Accounts Phone_No for which you want to reset your password</string>
+    <string name="make_selection_desc">Select which contact detail should we use to reset your password</string>
+    <string name="new_credentials_desc">Your Identity has been verified!<br />Set your new Password</string>
+    <string name="password_update_desc">Your Password has been updated!</string>
+    <string name="vis_sms">Via SMS: </string>
+    <string name="vis_email">Via Email: </string>
+    <string name="navogation_drawer_open">Open Navigation drawer</string>
+    <string name="navogation_drawer_closed">Close Navigation drawer</string>
+
+    <string name="signUp"><b>SignUp</b></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_splash_screen">Splash_Screen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>

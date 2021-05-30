@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:iconTint="@color/black"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_notif"
+            android:icon="@drawable/ic_baseline_notifications_24"
+            android:iconTint="@color/black"
+            android:title="Notifications" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:iconTint="@color/black"
+            android:title="Settings" />
+
+
+    </group>
+
+
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_rateus"
+                    android:icon="@drawable/ic_baseline_star_rate_24"
+                    android:iconTint="@color/black"
+                    android:title="Rate Us" />
+
+                <item
+                    android:id="@+id/nav_rateStudents"
+                    android:icon="@drawable/ic_baseline_rate_review_24"
+                    android:iconTint="@color/black"
+                    android:title="Rate Student" />
+
+                <item
+                    android:id="@+id/nav_help"
+                    android:icon="@drawable/ic_baseline_help_24"
+                    android:iconTint="@color/black"
+                    android:title="Help" />
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/exit"
+                android:iconTint="@color/black"
+                android:title="Sign out" />
+
+        </menu>
+    </item>
+
+
+</menu>
